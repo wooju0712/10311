@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+    <title>시간표</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="sehwa.css">
+</head>
+<body>
+    <div id="header">MyHomepage</div>
+    <div id="nav">
+        <ul>
+            <li>메뉴1</li>
+            <li>메뉴2</li>
+            <li>메뉴3</li>
+            <li>메뉴4</li>
+        </ul>
+    </div>
+    <div id="container">
+        <img src="picture/다운로드 (1).jpg">
+        <img src="picture/다운로드 (2).jpg">
+        <img src="picture/다운로드.jpg">
+    </div>
+    <div id="footer"></div>
+</body>
